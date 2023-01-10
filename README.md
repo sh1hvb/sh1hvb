@@ -29,7 +29,8 @@ programming language:
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img src="https://www.example.com/path/to/jira-logo.png" alt="Jira logo" width="50" height="50">
+<img align="left" alt="sonarqube" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sonarqube/sonarqube.png" />
+
 
 
 
@@ -41,6 +42,7 @@ programming language:
 
 ![Peers Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sh1hvb&layout=compact&bg_color=7049c7,86a8e7,E56EB2&title_color=fff&text_color=fff)
 <!--
+
 **sh1hvb/sh1hvb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
