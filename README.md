@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Hack&color=%239315B7&lines=I'm+chihab+-+aka+Sh1hvb)](https://git.io/typing-svg) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Hack&color=%239315B7&lines=I'm+chihab+-+aka+Sh1hvb)](https://git.io/typing-svg)
 
 ## :name_badge: I'm a web Developer Fullstack!
 
