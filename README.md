@@ -4,6 +4,7 @@
 
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">&nbsp;Hello there! 🙏 Please star 
 ### 👨🏻‍💻 &nbsp;About Me
+  <img align="right" alt="GIF" src="https://github.com/v08nike/v08nike/blob/main/code.gif?raw=true" width="400" height="220" 
 
 - :peach: I'm currently learning Web Application pentest and python
 
