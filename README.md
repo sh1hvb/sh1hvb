@@ -2,6 +2,9 @@
 
 ## :name_badge: I'm a web Developer Fullstack!
 
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">&nbsp;Hello there! 🙏 Please star 
+### 👨🏻‍💻 &nbsp;About Me
+
 - :peach: I'm currently learning Web Application pentest and python
 
 - :watermelon: You can reach me via email or LinkedIn([<img alt="chihab-med | LinkedIn" width="22px" src="https://icon-library.com/images/linked-in-icon-small/linked-in-icon-small-24.jpg" />][linkedin])
