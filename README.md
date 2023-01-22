@@ -35,14 +35,6 @@ Skills:
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 
-
----
-
-
-![Peers's github stats](https://github-readme-stats.vercel.app/api?username=sh1hvb&theme=radical&count_private=true&show_icons=true&bg_color=7049c7,86a8e7,E56EB2&title_color=fff&text_color=fff)
-
-![Peers Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sh1hvb&layout=compact&bg_color=7049c7,86a8e7,E56EB2&title_color=fff&text_color=fff)
-<!--
 ## 🏆 Github Status
 
 <img  src="https://github-readme-stats.vercel.app/api?username=sh1hvb&show_icons=true&hide_border=true&theme=radical" width="45%" align="right" >
