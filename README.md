@@ -6,7 +6,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
   <img align="right" alt="GIF" src="https://github.com/v08nike/v08nike/blob/main/code.gif?raw=true" width="350" height="180" >
 
-- :peach: I'm currently learning Web Application pentest and python
+- :peach: I'm currently learning Web developement fullstack
 
 - :watermelon: You can reach me via email or LinkedIn([<img alt="chihab-med | LinkedIn" width="22px" src="https://icon-library.com/images/linked-in-icon-small/linked-in-icon-small-24.jpg" />][linkedin])
 - :meat_on_bone: Fun fact, I love Programming ,solve problemes,play games.
@@ -33,7 +33,7 @@ Skills:
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-
+<br /> 
 
 ## 🏆 Github Status
 
@@ -58,9 +58,6 @@ Skills:
 
 [<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=react&logoColor=61DAFB">](https://shihvb.github.io/)
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](https://mail.google.com/mail/?view=cm&fs=1&to=medchihab651@gmail.com)
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/medshihab/)
-
-[<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/shehab+med.71/)
 [<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/shi_hvb/)
 
 </div>
@@ -71,7 +68,7 @@ Skills:
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning React mongoDB mongoose
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -79,4 +76,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[linkedin]: https://www.linkedin.com/in/chihab-med/
+
