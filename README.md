@@ -43,6 +43,36 @@ Skills:
 
 ![Peers Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sh1hvb&layout=compact&bg_color=7049c7,86a8e7,E56EB2&title_color=fff&text_color=fff)
 <!--
+## 🏆 Github Status
+
+<img  src="https://github-readme-stats.vercel.app/api?username=sh1hvb&show_icons=true&hide_border=true&theme=radical" width="45%" align="right" >
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=sh1hvb&theme=radical" width="45%" >
+
+
+<br /> 
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=sh1hvb&theme=onestar&no-frame=true" alt="sh1hvb Profile Trophies" />
+  </a>
+</div>
+
+
+<br /> 
+
+<div align="center">
+
+## Show some ❤️ by starring ⭐ some of the repositories!
+
+[<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=react&logoColor=61DAFB">](https://shihvb.github.io/)
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](https://mail.google.com/mail/?view=cm&fs=1&to=medchihab651@gmail.com)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/medshihab/)
+
+[<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/shehab+med.71/)
+[<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/shi_hvb/)
+
+</div>
+
 
 **sh1hvb/sh1hvb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
