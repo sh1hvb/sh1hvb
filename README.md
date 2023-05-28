@@ -8,7 +8,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
   <img align="right" alt="GIF" src="https://github.com/v08nike/v08nike/blob/main/code.gif?raw=true" width="350" height="180" >
 
-- :peach: I'm currently learning Web developement fullstack
+- :peach: I'm currently learning cloud cloud
 
 - :watermelon: You can reach me via email or LinkedIn([<img alt="chihab-med | LinkedIn" width="22px" src="https://icon-library.com/images/linked-in-icon-small/linked-in-icon-small-24.jpg" />](https://www.linkdin.com/)])
 - :meat_on_bone: Fun fact, I love Programming ,solve problemes,play games.
