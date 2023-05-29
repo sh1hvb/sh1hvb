@@ -10,7 +10,7 @@
 
 - :peach: I'm currently learning cloud cloud
 
-- :watermelon: You can reach me via email or LinkedIn([<img alt="chihab-med | LinkedIn" width="22px" src="https://icon-library.com/images/linked-in-icon-small/linked-in-icon-small-24.jpg" />](https://www.linkdin.com/)])
+- :watermelon: You can reach me via email or LinkedIn([<img alt="chihab-med | LinkedIn" width="22px" src="https://icon-library.com/images/linked-in-icon-small/linked-in-icon-small-24.jpg" />](https://www.linkedin.com/in/chihab-med-545a5a252/)])
 - :meat_on_bone: Fun fact, I love Programming ,solve problemes,play games.
 
 Skills:
