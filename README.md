@@ -1,17 +1,16 @@
-![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
-<br/>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Hack&color=%239315B7&lines=hey+I'm+chihab+-+aka+Sh1hvb)](https://git.io/typing-svg)
 
+Hey!
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 ## :name_badge: I'm a web Developer Fullstack!
 
-### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+
 ### 👨🏻‍💻 &nbsp;About Me
   <img align="right" alt="GIF" src="https://github.com/v08nike/v08nike/blob/main/code.gif?raw=true" width="350" height="180" >
 
-- :peach: I'm currently learning mern stacks
+- ⏲️: I'm currently learning mern stacks
 
 - :watermelon: You can reach me via email or LinkedIn([<img alt="chihab-med | LinkedIn" width="22px" src="https://icon-library.com/images/linked-in-icon-small/linked-in-icon-small-24.jpg" />](https://www.linkedin.com/in/medshihab))
-- :meat_on_bone: Fun fact, I love Programming ,problem solving,play games.
+- :meat_on_bone: fact, I love Programming ,working remotly
 
 Skills:
 ---
