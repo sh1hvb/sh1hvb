@@ -7,7 +7,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
   <img align="right" alt="GIF" src="https://github.com/v08nike/v08nike/blob/main/code.gif?raw=true" width="350" height="180" >
 
-- ⏲️: I'm currently learning Software engineer
+- ⏲️: I'm currently learning Software engineer at #1337_future_is_loading
 
 - :watermelon: You can reach me via email or LinkedIn([<img alt="chihab-med | LinkedIn" width="22px" src="https://icon-library.com/images/linked-in-icon-small/linked-in-icon-small-24.jpg" />](https://www.linkedin.com/in/medshihab))
 - :meat_on_bone: fact, I love Programming ,working remotly
