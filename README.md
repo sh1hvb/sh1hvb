@@ -1,16 +1,12 @@
 
 
-### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-## :name_badge: I'm a web Developer Fullstack!
-
 
 ### 👨🏻‍💻 &nbsp;About Me
 
 
-- ⏲️: I'm currently learning Software engineer at #1337_future_is_loading
+- ⏲️: I'm currently learning Software engineer at 1337 (42 Network)
 
 - :watermelon: You can reach me via email or LinkedIn([<img alt="chihab-med | LinkedIn" width="22px" src="https://icon-library.com/images/linked-in-icon-small/linked-in-icon-small-24.jpg" />](https://www.linkedin.com/in/medshihab))
-- :meat_on_bone: fact, I love Programming ,working remotly
 <div align="center">
 <a src="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/mchihab" alt="mchihab's 42 stats" /></a>
 <div/>
