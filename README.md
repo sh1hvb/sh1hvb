@@ -4,7 +4,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 
-- ⏲️: I'm currently learning Software engineer at 1337 (42 Network)
+- ⏲️: I'm currently learning Software Engineering at 1337 (42 Network)
 
 - :watermelon: You can reach me via email or LinkedIn([<img alt="chihab-med | LinkedIn" width="22px" src="https://icon-library.com/images/linked-in-icon-small/linked-in-icon-small-24.jpg" />](https://www.linkedin.com/in/medshihab))
 <div align="center">
